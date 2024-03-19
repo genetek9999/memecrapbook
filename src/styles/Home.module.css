@@ -1,0 +1,23 @@
+.main {
+    padding: 2.5rem;
+    min-height: 100vh;
+    background-color: #fff;
+}
+
+.images {
+    display: flex;
+    align-items: center;
+    flex-wrap: wrap;
+    gap: 2rem;
+    margin-top: 40px;
+}
+
+@media (max-width: 768px) {
+    .main {
+        padding: 1rem;
+    }
+
+    .main img {
+        width: 100%;
+    }
+}
