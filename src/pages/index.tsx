@@ -23,7 +23,7 @@ export default function Home() {
             <main className={`${styles.main} ${inter.className}`}>
                 <h2 style={{ fontSize: 30, fontWeight: 700, marginBottom: 10 }}>Meme Crap Book</h2>
                 <p style={{ fontSize: 14 }}>
-                    Introducing the <b>MEME CRAP BOOK</b>, a project that will change web3 culture by combining <b>memes, decentralized storage solutions, and degen shitcoin trade and gambling</b>. This effort aims to capture the ever-changing meme culture in a digital compendium called the MEME CRAP BOOK, ensuring that each item is immortalized on the blockchain. The $MEMECRAP memecoin on BSC,
+                    Introducing the <b>MEME CRAP BOOK</b>, a project that will change web3 culture by combining <b>memes, decentralized storage solutions, and degen shitcoin trade and gambling</b>. This effort aims to capture the ever-changing meme culture in a digital compendium called the MEME CRAP BOOK, ensuring that each item is immortalized on the blockchain. The $MEMECRAP memecoin on SOLANA,
                     along with IPFS as the primary store for the MEME CRAP BOOK and potential expansions to Bitcoin inscriptions, intends to promote decentralized social media and make memes unstoppable.
                 </p>
                 <h3 style={{ marginTop: 36, fontSize: 21, fontWeight: 700 }}>
@@ -93,8 +93,8 @@ export default function Home() {
                 <div style={{ marginTop: 100 }}>
                     <h2 style={{ fontSize: 21, fontWeight: 700 }}>How to buy $MEMECRAP</h2>
                     <div style={{ fontSize: 14, marginTop: 21 }}>
-                        <p>Send $BNB to your personal wallet to buy $MEMECRAP.</p>
-                        <p>Head to Pancakeswap and paste $MEMECRAP address and swap BNB for MEMECRAP.</p>
+                        <p>Send $SOL to your personal wallet to buy $MEMECRAP.</p>
+                        <p>Head to Raydium and paste $MEMECRAP address and swap SOL for MEMECRAP.</p>
                         <p>Hodl and enjoy the memetastic.</p>
                     </div>
                 </div>
