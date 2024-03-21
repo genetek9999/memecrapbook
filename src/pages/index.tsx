@@ -105,7 +105,7 @@ export default function Home() {
                     <div>
                     <Link href="https://x.com/MemeCrapBook" style={{ fontSize: 14, marginBottom: 20 }}>Twitter: @MemeCrapBook</Link></div>
                     <div>
-                    <Link href="/whitepaper.pdf" style={{ fontSize: 14, marginBottom: 20 }}>Whitepaper</Link></div>
+                    <Link href="/whitepaper.pdf" style={{ fontSize: 14, marginBottom: 20 }}>Whitepaper: memecrapbook.wtf/whitepaper.pdf</Link></div>
 
                     <br/>
                     <br/>
