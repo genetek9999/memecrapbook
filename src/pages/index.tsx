@@ -107,6 +107,9 @@ export default function Home() {
                     <div>
                     <Link href="/whitepaper.pdf" style={{ fontSize: 14, marginBottom: 20 }}>Whitepaper</Link></div>
 
+                    <br/>
+                    <br/>
+
                     <Image src={MemeImg5} alt="" width={800} height={600} />
                 </div>
             </main>
