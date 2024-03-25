@@ -100,8 +100,15 @@ export default function Home() {
                 </div>
 
                 <div style={{ marginTop: 100 }}>
-                    <p style={{ fontSize: 14 }}>Telegram: @MemeCrapBook_Official_Chat</p>
-                    <p style={{ fontSize: 14, marginBottom: 20 }}>Twitter: @MemeCrapBook</p>
+                    <div>
+                    <Link href="https://t.me/MemeCrapBook_Official_Chat" style={{ fontSize: 14 }}>Telegram: @MemeCrapBook_Official_Chat</Link></div>
+                    <div>
+                    <Link href="https://x.com/MemeCrapBook" style={{ fontSize: 14, marginBottom: 20 }}>Twitter: @MemeCrapBook</Link></div>
+                    <div>
+                    <Link href="/whitepaper.pdf" style={{ fontSize: 14, marginBottom: 20 }}>Whitepaper: memecrapbook.wtf/whitepaper.pdf</Link></div>
+
+                    <br/>
+                    <br/>
 
                     <Image src={MemeImg5} alt="" width={800} height={600} />
                 </div>
